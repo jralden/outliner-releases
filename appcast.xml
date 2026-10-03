@@ -8,7 +8,7 @@
             <sparkle:version>76</sparkle:version>
             <sparkle:shortVersionString>0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/jralden/outliner-releases/releases/download/v0.4/Outliner-0.4.zip" length="1890083" type="application/octet-stream" sparkle:edSignature="S4evMivGt9zVV5kTQs/2t9aoZ7BZJlcqPgA5FdQs3PDfgGWmnGsvcnrXmiPTzR3KTRq+wFp1ufHARR2SCCIsCg=="/>
+            <enclosure url="https://github.com/jralden/outliner-releases/releases/download/v0.4/Outliner-0.4.zip" length="1843357" type="application/octet-stream" sparkle:edSignature="x++Ls+v3EbSWJz3qLFWTZFhkV37L8cvuBXc2GpdUbNn7YeVL6kzh1JAXssDQ3MxGX54M/p4NmO1yX59g9XRYAg=="/>
         </item>
         <item>
             <title>0.3</title>
